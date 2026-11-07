@@ -1,0 +1,7 @@
+[project]
+name = "zakat-py-fitr-sa-estimator"
+version = "1.0.0"
+description = "Zakat Al-Fitr Prophetic Sa' Weight & Household Staple Estimator (مقدر زكاة الفطر بالصاع النبوي والأوزان المعاصرة)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Mahmoud ElNemer", email = "sultanelnemer@gmail.com" }]
